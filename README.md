@@ -1,5 +1,8 @@
-# cham-graph
-### A python script that will create a diagram showing the relative abundance of a isotopes in a sample.
+### 📜 Archived Repository
+While this repository holds value as a look into my past work, it's been archived to differentiate from my current focus.
+
+# isotopes-grapher
+### A python script that will create a graph showing relative abundance of isotopes.
 **![](https://img.shields.io/pypi/pyversions/matplotlib?style=flat-square)**
 
 <p align="center">
